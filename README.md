@@ -2,7 +2,7 @@
 I am a software engineering student who is passionate about software development and constantly learning. <br>Currently, I am focusing on web development.
 
 [![](https://visitcount.itsvg.in/api?id=EnesGurbuz1&icon=0&color=7)](https://visitcount.itsvg.in)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnesGurbuz1)](https://wakatime.com/@KULLANICI_ADI)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnesGurbuz1)](https://wakatime.com/@EnesGurbuz1)
 
 
 ## 🌐 Socials:
