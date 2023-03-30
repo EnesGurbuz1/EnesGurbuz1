@@ -1,9 +1,8 @@
 # 💫 About Me:
 I am a software engineering student who is passionate about software development and constantly learning. <br>Currently, I am focusing on web development.
 
-[![](https://visitcount.itsvg.in/api?id=EnesGurbuz1&icon=0&color=7)](https://visitcount.itsvg.in) <br/>
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnesGurbuz1)](https://wakatime.com/@EnesGurbuz1)
-
+[![](https://visitcount.itsvg.in/api?id=EnesGurbuz1&icon=0&color=7)] <br/>
+[![wakatime](https://wakatime.com/badge/user/869c4ef9-2f34-4e13-bdb1-096985b89bf4.svg)](https://wakatime.com/@869c4ef9-2f34-4e13-bdb1-096985b89bf4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ensgrbzzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enesbugragurbuz1/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@enesbugragurbuz1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21531629) 
