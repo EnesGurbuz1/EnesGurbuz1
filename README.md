@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a software engineering student who is passionate about software development and constantly learning. <br>Currently, I am focusing on web development.
 
-[![](https://visitcount.itsvg.in/api?id=EnesGurbuz1&icon=0&color=7)] <br/>
+![](https://visitcount.itsvg.in/api?id=EnesGurbuz1&icon=0&color=7) <br/>
 [![wakatime](https://wakatime.com/badge/user/869c4ef9-2f34-4e13-bdb1-096985b89bf4.svg)](https://wakatime.com/@869c4ef9-2f34-4e13-bdb1-096985b89bf4)
 
 ## 🌐 Socials:
