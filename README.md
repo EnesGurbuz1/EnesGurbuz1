@@ -17,5 +17,6 @@ I am a software engineering student who is passionate about software development
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EnesGurbuz1&show_icons=true&theme=swift&hide)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnesGurbuz1&theme=swift&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesGurbuz1&layout=compact)
 
 
