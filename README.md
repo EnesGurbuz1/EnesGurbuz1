@@ -17,9 +17,5 @@ I am a software engineering student who is passionate about software development
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EnesGurbuz1&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EnesGurbuz1&theme=swift&hide_border=false)<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EnesGurbuz1&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
